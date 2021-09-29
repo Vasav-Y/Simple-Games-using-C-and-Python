@@ -1,1 +1,1 @@
-Multiple players can play this game one at a time and the player which guesses the correct number in least number of chances wins the game
+* Multiple players can play this game one at a time and the player which guesses the correct number in least number of chances wins the game
